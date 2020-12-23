@@ -1,10 +1,10 @@
 [
     {
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/cases_deaths.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/cases_deaths.csv",
         "sinkFileName":"cases_deaths.csv"
     },
     {
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/hospital_admissions.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv",
         "sinkFileName":"hospital_admissions.csv"
     }
 ]

@@ -1,22 +1,22 @@
 [
     {
         "sourceBaseURL":"https://github.com",
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/cases_deaths.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/cases_deaths.csv",
         "sinkFileName":"cases_deaths/cases_deaths.csv"
     },
     {
         "sourceBaseURL":"https://github.com",
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/hospital_admissions.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv",
         "sinkFileName":"hospital_admissions/hospital_admissions.csv"
     },
     {
         "sourceBaseURL":"https://github.com",
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/testing.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/testing.csv",
         "sinkFileName":"testing/testing.csv"
     },
     {
         "sourceBaseURL":"https://github.com",
-        "sourceRelativeURL":"cloudboxacademy/covid-19-trends/raw/main/ecdc_data/country_response.csv",
+        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/country_response.csv",
         "sinkFileName":"country_response/country_response.csv"
     }
 ]
