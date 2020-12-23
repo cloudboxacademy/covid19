@@ -1,0 +1,209 @@
+country,country_code_2_digit,country_code_3_digit,continent,population
+Aruba,AW,ABW,America,106766
+Afghanistan,AF,AFG,Asia,38928341
+Angola,AO,AGO,Africa,32866268
+Anguilla,AI,AIA,America,15002
+Albania,AL,ALB,Europe,2862427
+Andorra,AD,AND,Europe,76177
+United Arab Emirates,AE,ARE,Asia,9890400
+Argentina,AR,ARG,America,45195777
+Armenia,AM,ARM,Europe,2963234
+Antigua and Barbuda,AG,ATG,America,97928
+Australia,AU,AUS,Oceania,25499881
+Austria,AT,AUT,Europe,8858775
+Azerbaijan,AZ,AZE,Europe,10139175
+Burundi,BI,BDI,Africa,11890781
+Belgium,BE,BEL,Europe,11455519
+Benin,BJ,BEN,Africa,12123198
+"Bonaire, Saint Eustatius and Saba",BQ,BES,America,26221
+Burkina Faso,BF,BFA,Africa,20903278
+Bangladesh,BD,BGD,Asia,164689383
+Bulgaria,BG,BGR,Europe,7000039
+Bahrain,BH,BHR,Asia,1701583
+Bahamas,BS,BHS,America,393248
+Bosnia and Herzegovina,BA,BIH,Europe,3280815
+Belarus,BY,BLR,Europe,9449321
+Belize,BZ,BLZ,America,397621
+Bermuda,BM,BMU,America,62273
+Bolivia,BO,BOL,America,11673029
+Brazil,BR,BRA,America,212559409
+Barbados,BB,BRB,America,287371
+Brunei_Darussalam,BN,BRN,Asia,437483
+Bhutan,BT,BTN,Asia,771612
+Botswana,BW,BWA,Africa,2351625
+Central African Republic,CF,CAF,Africa,4829764
+Canada,CA,CAN,America,37742157
+Switzerland,CH,CHE,Europe,8544527
+Chile,CL,CHL,America,19116209
+China,CN,CHN,Asia,1439323774
+Cote_dIvoire,CI,CIV,Africa,26378275
+Cameroon,CM,CMR,Africa,26545864
+Democratic Republic of the Congo,CD,COD,Africa,89561404
+Congo,CG,COG,Africa,5518092
+Colombia,CO,COL,America,50882884
+Comoros,KM,COM,Africa,869595
+Cape_Verde,CV,CPV,Africa,555988
+Costa_Rica,CR,CRI,America,5094114
+Cuba,CU,CUB,America,11326616
+Curacao,CW,CUW,America,164100
+Cayman Islands,KY,CYM,America,65720
+Cyprus,CY,CYP,Europe,875899
+Czechia,CZ,CZE,Europe,10649800
+Germany,DE,DEU,Europe,83019213
+Djibouti,DJ,DJI,Africa,988002
+Dominica,DM,DMA,America,71991
+Denmark,DK,DNK,Europe,5806081
+Dominican Republic,DO,DOM,America,10847904
+Algeria,DZ,DZA,Africa,43851043
+Ecuador,EC,ECU,America,17643060
+Egypt,EG,EGY,Africa,102334403
+Eritrea,ER,ERI,Africa,3546427
+Western Sahara,EH,ESH,Africa,597330
+Spain,ES,ESP,Europe,46937060
+Estonia,EE,EST,Europe,1324820
+Ethiopia,ET,ETH,Africa,114963583
+Finland,FI,FIN,Europe,5517919
+Fiji,FJ,FJI,Oceania,896444
+Falkland Islands(Malvinas),FK,FLK,America,3483
+France,FR,FRA,Europe,67012883
+Faroe Islands,FO,FRO,Europe,48865
+Gabon,GA,GAB,Africa,2225728
+United Kingdom,UK,GBR,Europe,66647112
+Georgia,GE,GEO,Europe,3989175
+Guernsey,GG,GGY,Europe,64468
+Ghana,GH,GHA,Africa,31072945
+Gibraltar,GI,GIB,Europe,33691
+Guinea,GN,GIN,Africa,13132792
+Gambia,GM,GMB,Africa,2416664
+Guinea_Bissau,GW,GNB,Africa,1967998
+Equatorial Guinea,GQ,GNQ,Africa,1402985
+Greece,EL,GRC,Europe,10724599
+Grenada,GD,GRD,America,112519
+Greenland,GL,GRL,America,56772
+Guatemala,GT,GTM,America,17915567
+Guam,GU,GUM,Oceania,168783
+Guyana,GY,GUY,America,786559
+Honduras,HN,HND,America,9904608
+Croatia,HR,HRV,Europe,4076246
+Haiti,HT,HTI,America,11402533
+Hungary,HU,HUN,Europe,9772756
+Indonesia,ID,IDN,Asia,273523621
+Isle_of_Man,IM,IMN,Europe,85032
+India,IN,IND,Asia,1380004385
+Ireland,IE,IRL,Europe,4904240
+Iran,IR,IRN,Asia,83992953
+Iraq,IQ,IRQ,Asia,40222503
+Iceland,IS,ISL,Europe,356991
+Israel,IL,ISR,Asia,8655541
+Italy,IT,ITA,Europe,60359546
+Jamaica,JM,JAM,America,2961161
+Jersey,JE,JEY,Europe,107796
+Jordan,JO,JOR,Asia,10203140
+Japan,JP,JPN,Asia,126476458
+Kazakhstan,KZ,KAZ,Asia,18776707
+Kenya,KE,KEN,Africa,53771300
+Kyrgyzstan,KG,KGZ,Asia,6524191
+Cambodia,KH,KHM,Asia,16718971
+Saint Kitts and Nevis,KN,KNA,America,53192
+South Korea,KR,KOR,Asia,51269183
+Kuwait,KW,KWT,Asia,4270563
+Laos,LA,LAO,Asia,7275556
+Lebanon,LB,LBN,Asia,6825442
+Liberia,LR,LBR,Africa,5057677
+Libya,LY,LBY,Africa,6871287
+Saint Lucia,LC,LCA,America,183629
+Liechtenstein,LI,LIE,Europe,38378
+Sri Lanka,LK,LKA,Asia,21413250
+Lesotho,LS,LSO,Africa,2142252
+Lithuania,LT,LTU,Europe,2794184
+Luxembourg,LU,LUX,Europe,613894
+Latvia,LV,LVA,Europe,1919968
+Morocco,MA,MAR,Africa,36910558
+Monaco,MC,MCO,Europe,33085
+Moldova,MD,MDA,Europe,4033963
+Madagascar,MG,MDG,Africa,27691019
+Maldives,MV,MDV,Asia,540542
+Mexico,MX,MEX,America,128932753
+North Macedonia,MK,MKD,Europe,2077132
+Mali,ML,MLI,Africa,20250834
+Malta,MT,MLT,Europe,493559
+Myanmar,MM,MMR,Asia,54409794
+Montenegro,ME,MNE,Europe,622182
+Mongolia,MN,MNG,Asia,3278292
+Northern Mariana Islands,MP,MNP,Oceania,57557
+Mozambique,MZ,MOZ,Africa,31255435
+Mauritania,MR,MRT,Africa,4649660
+Mauritius,MU,MUS,Africa,1271767
+Malawi,MW,MWI,Africa,19129955
+Malaysia,MY,MYS,Asia,32365998
+Namibia,NA,NAM,Africa,2540916
+New_Caledonia,NC,NCL,Oceania,285491
+Niger,NE,NER,Africa,24206636
+Nigeria,NG,NGA,Africa,206139587
+Nicaragua,NI,NIC,America,6624554
+Netherlands,NL,NLD,Europe,17282163
+Norway,NO,NOR,Europe,5328212
+Nepal,NP,NPL,Asia,29136808
+New_Zealand,NZ,NZL,Oceania,4822233
+Oman,OM,OMN,Asia,5106622
+Pakistan,PK,PAK,Asia,220892331
+Panama,PA,PAN,America,4314768
+Peru,PE,PER,America,32971846
+Philippines,PH,PHL,Asia,109581085
+Papua New Guinea,PG,PNG,Oceania,8947027
+Poland,PL,POL,Europe,37972812
+Puerto Rico,PR,PRI,America,2860840
+Portugal,PT,PRT,Europe,10276617
+Paraguay,PY,PRY,America,7132530
+Palestine,PS,PSE,Asia,5101416
+French Polynesia,PF,PYF,Oceania,280904
+Qatar,QA,QAT,Asia,2881060
+Romania,RO,ROU,Europe,19414458
+Russia,RU,RUS,Europe,145934460
+Rwanda,RW,RWA,Africa,12952209
+Saudi Arabia,SA,SAU,Asia,34813867
+Sudan,SD,SDN,Africa,43849269
+Senegal,SN,SEN,Africa,16743930
+Singapore,SG,SGP,Asia,5850343
+Solomon Islands,SB,SLB,Oceania,686878
+Sierra Leone,SL,SLE,Africa,7976985
+El Salvador,SV,SLV,America,6486201
+San Marino,SM,SMR,Europe,34453
+Somalia,SO,SOM,Africa,15893219
+Serbia,RS,SRB,Europe,6963764
+South Sudan,SS,SSD,Africa,11193729
+Sao Tome and Principe,ST,STP,Africa,219161
+Suriname,SR,SUR,America,586634
+Slovakia,SK,SVK,Europe,5450421
+Slovenia,SI,SVN,Europe,2080908
+Sweden,SE,SWE,Europe,10230185
+Eswatini,SZ,SWZ,Africa,1160164
+Sint Maarten,SX,SXM,America,42882
+Seychelles,SC,SYC,Africa,98340
+Syria,SY,SYR,Asia,17500657
+Turks and Caicos islands,TC,TCA,America,38718
+Chad,TD,TCD,Africa,16425859
+Togo,TG,TGO,Africa,8278737
+Thailand,TH,THA,Asia,69799978
+Tajikistan,TJ,TJK,Asia,9537642
+Timor Leste,TL,TLS,Asia,1318442
+Trinidad and Tobago,TT,TTO,America,1399491
+Tunisia,TN,TUN,Africa,11818618
+Turkey,TR,TUR,Europe,82003882
+Taiwan,TW,TWN,Asia,23816775
+United Republic of Tanzania,TZ,TZA,Africa,59734213
+Uganda,UG,UGA,Africa,45741000
+Ukraine,UA,UKR,Europe,43733759
+Uruguay,UY,URY,America,3473727
+United States of America,US,USA,America,331002647
+Uzbekistan,UZ,UZB,Asia,33469199
+the Holy See/ Vatican City State,VA,VAT,Europe,809
+Saint Vincent and the Grenadines,VC,VCT,America,110947
+Venezuela,VE,VEN,America,28435943
+British Virgin Islands,VG,VGB,America,30237
+United States Virgin Islands,VI,VIR,America,104423
+Vietnam,VN,VNM,Asia,97338583
+Yemen,YE,YEM,Asia,29825968
+South Africa,ZA,ZAF,Africa,59308690
+Zambia,ZM,ZMB,Africa,18383956
+Zimbabwe,ZW,ZWE,Africa,14862927
